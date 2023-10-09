@@ -22,5 +22,5 @@ Demonstração da entropia de Shannon (teoria da informação) e relação entre
 - import warnings
 - warnings.filterwarnings("ignore")
 
-#Explicação
+# Explicação
 Notebook totalmente explicado passo-a-passo
